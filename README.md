@@ -1,4 +1,4 @@
-# FNAC Breast Cancer Prediction using Machine-Learning
+# FNAC Breast Cancer Prediction Using Machine Learning
 
 ## Contains Jupyter Notebook on:
   ##### Data Exploration
